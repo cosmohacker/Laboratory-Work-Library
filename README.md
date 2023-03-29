@@ -21,7 +21,7 @@ Table of contents
 
 # Diagram
 ## Database Diagram :
-
+Design Link : https://www.figma.com/file/pMZRd8L7m1CEYBtkS1SWo3/Library-Scheme?node-id=0%3A1&t=oFblB2nsXybzzc7w-1
 ![Scheme](https://user-images.githubusercontent.com/25702402/228625282-ff796417-9971-4f66-9502-1c8c8b78c0ec.png)
 
 # Workflow
