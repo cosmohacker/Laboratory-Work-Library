@@ -1,0 +1,1 @@
+Before using the program you need to import 'library.sql' to MySQL. 
