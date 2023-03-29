@@ -30,3 +30,13 @@ Design Link : https://www.figma.com/file/pMZRd8L7m1CEYBtkS1SWo3/Library-Scheme?n
 
 ![application_workflow drawio (1)](https://user-images.githubusercontent.com/25702402/228628980-04f8e891-0b56-4ba0-87e6-f9ee065d10d6.png)
 
+# ATTENTION
+In Windows, the setup file can be detect as a virus, because the inno setup program is likely to be on the black list and I didn't make any certification for the setup, there is no virus. You can scan with external virus programs such as Kaspersky, Avast etc.
+
+Here is same problems:
+
+https://stackoverflow.com/questions/67573833/windows-defender-detects-my-own-inno-setup-as-virus
+
+https://stackoverflow.com/questions/68834409/program-installed-with-inno-setup-seen-as-trojan-wacatac-bml
+
+https://stackoverflow.com/questions/24864545/inno-setup-executable-seen-as-a-virus
