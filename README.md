@@ -9,11 +9,9 @@ Table of contents
 <!--ts-->
    * [Subject](#subject)
       * [by cosmohacker](#by-cosmohacker)
-   * [Screenshot of Home](#screenshot-of-home)
-   * [Database Diagram](#database-diagram)
-   * [Application Workflow](#application-workflow)
-   * [Installation](#installation)
-   * [Usage](#usage)
+   * [Screenshot of Home](##screenshot-of-home)
+   * [Database Diagram](##database-diagram)
+   * [Application Workflow](##application-workflow)
 <!--te-->
 
 ## Screenshot of Home : 
